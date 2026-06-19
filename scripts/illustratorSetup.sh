@@ -67,7 +67,8 @@ function install_illustratorCC() {
     # local filelink="http://127.0.0.1:4050/illustratorCC17.tgz"
     #local filelink="https://victor.poshtiban.io/p/gictor/illustratorCC/illustratorCC17.tgz"
 
-    #Current new link on where the illustratorCC17.tgz is stored
+    #Current new link to where the illustratorCC17.tgz is stored
+    #     Thank you https://github.com/Gictorbit/illustratorCClinux/issues/27
     local filelink="https://downloads.runebase.io/illustratorCC17.tgz"
     local filepath="$CACHE_PATH/$filename"
 
