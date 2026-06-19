@@ -8,3 +8,5 @@ Comment=Illustrator CC for Linux
 Icon=illustratoricon
 StartupWMClass=illustrator.exe
 Name[fr_FR]=Illustrator CC
+Categories=Graphics;VectorGraphics;
+#Line above was added for convenience
