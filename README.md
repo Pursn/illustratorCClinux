@@ -29,10 +29,15 @@ This bash script helps you to install `Adobe Illustrator CC` on your Linux distr
 * `md5sum`
 
 
-if they are not already installed you can install them using your package manager for example in arch Linux
+if they are not already installed, you can install them using your package manager
+## ARCH
 ```bash
 sudo pacman -S wine
-``` 
+```
+##Fedora
+```bash
+sudo dnf install wine 
+```
 3- make sure you have enough storage in your `/home` partition about `2 GiB`
 > 400 MiB will be free after installation
 
