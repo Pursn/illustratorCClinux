@@ -34,7 +34,7 @@ if they are not already installed, you can install them using your package manag
 ```bash
 sudo pacman -S wine
 ```
-##Fedora
+## Fedora
 ```bash
 sudo dnf install wine 
 ```
